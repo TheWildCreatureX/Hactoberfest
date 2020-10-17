@@ -12,14 +12,14 @@ Q4:What is Objects in Java?
 Ans: instance of class.
 
 Q5: Create an Integer Variable ?
-Ans: int s;
+Ans: int idk_man;
 
 Q6: Write any String class function down here?
 Ans: String s = "Hey"; 
           s.charAt(1);
 
 Q7: How many classes we can extends in java?
-Ans:  
+Ans:  1
 
 
 Class Test{
