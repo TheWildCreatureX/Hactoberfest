@@ -27,3 +27,9 @@ Class Test{
    System.out.print.ln("R= "+r);
  }
 }
+Class TestInner{
+ public static void main(String[] args){
+   String s = "      Hey.    ";
+   System.out println(s.trim());
+ }
+}
