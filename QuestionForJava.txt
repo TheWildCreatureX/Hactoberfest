@@ -1,5 +1,5 @@
 Q1:How to print the data on console?
-Ans:
+Ans: using System.out.println("data");
 
 Q2:What is Class in Java?
 Ans:
