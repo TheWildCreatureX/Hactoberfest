@@ -19,3 +19,11 @@ Ans:
 
 Q7: How many classes we can extends in java?
 Ans:  
+
+
+Class Test{
+ public static void main(String[] args){
+   int r = 3;
+   System.out.print.ln("R= "+r);
+ }
+}
