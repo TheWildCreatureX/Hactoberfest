@@ -4,6 +4,7 @@ class FileHandle{
    File file = new File("Location");
    if(file.exists()){
      System.out.println("File Found");
+Good
    }
  }
 
